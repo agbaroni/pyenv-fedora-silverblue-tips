@@ -2,6 +2,8 @@
 
 ## Install dependencies
 
+These dependencies install all headers files because the libraries are already shipped with Fedora Silverblue without adding any new layer.
+
 ```
 toolbox create temp
 
